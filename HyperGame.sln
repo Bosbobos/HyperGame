@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperGame", "HyperGame.csproj", "{B6171B63-38D6-42A9-A23F-F76F60DA941B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6171B63-38D6-42A9-A23F-F76F60DA941B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6171B63-38D6-42A9-A23F-F76F60DA941B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6171B63-38D6-42A9-A23F-F76F60DA941B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6171B63-38D6-42A9-A23F-F76F60DA941B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {913C3E6F-0AD4-44C4-8EB8-E271644A88EC}
+	EndGlobalSection
+EndGlobal
